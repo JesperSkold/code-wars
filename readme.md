@@ -1,6 +1,6 @@
 ## My CodeWars katas
 
-![CodeWars Logo](https://www.codewars.com/assets/logos/logo-611e165b717b79c831603c0f4a9eaa60.png)
+![CodeWars Logo](![CodeWars logo](image.png))
 
 ## Description
 
