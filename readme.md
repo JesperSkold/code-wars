@@ -1,6 +1,6 @@
 ## My CodeWars katas
 
-![CodeWars Logo](![CodeWars logo](image.png))
+<img src="image.png" alt="CodeWars Logo" style="max-width: 300px;">
 
 ## Description
 
