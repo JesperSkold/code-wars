@@ -22,3 +22,6 @@ Here's an overview of the kyu levels:
 - **1 kyu**: Legend. The most difficult challenges reserved for coding masters.
 
 As you solve katas and gain points, your ranking will improve. CodeWars provides an excellent way to gauge your progress and learn from other developers' solutions.
+
+## My CodeWars Profile
+[codewars.com/users/Skold](https://www.codewars.com/users/Skold)
