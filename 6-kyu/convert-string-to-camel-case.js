@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/517abf86da9663f1d2000003
 const toCamelCase = (str) => {
   const arrOfWords = str.split(/[-_]/)
   const upperCaseWords = arrOfWords
@@ -6,7 +7,6 @@ const toCamelCase = (str) => {
   return arrOfWords[0] + upperCaseWords.join("")
   return str
 }
-console.log(toCamelCase("the_stealth_warrior"))
 
 const assert = require("assert")
 
