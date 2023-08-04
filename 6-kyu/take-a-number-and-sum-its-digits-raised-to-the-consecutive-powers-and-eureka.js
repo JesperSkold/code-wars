@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/5626b561280a42ecc50000d1
 const sumDigPow = (a, b) => {
   const eureka = []
 
