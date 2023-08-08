@@ -10,14 +10,3 @@ const narcissistic = n => {
 
   return sum === n
 }
-console.log(narcissistic(153)) // true
-/*
-check if number is narcissistic
-
-split number
-iterate over the split numbers
-sum the digits with the power of the numbers length
-if sum is === number return true
-else false
-
-*/
