@@ -1,5 +1,5 @@
 // https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
-const findOutlier = integers => {
+const findOutlier = (integers) => {
   const even = []
   const uneven = []
 
